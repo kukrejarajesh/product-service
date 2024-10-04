@@ -1,0 +1,5 @@
+package com.rajesh.expertise.product_service.dto;
+
+public class ExceptionDto {
+
+}
